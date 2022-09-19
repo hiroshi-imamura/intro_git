@@ -1,4 +1,6 @@
 gitの練習です。
 基本ワークフロー
+git add
+git commit
 
 
